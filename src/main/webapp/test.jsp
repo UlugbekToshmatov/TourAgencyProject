@@ -11,7 +11,7 @@
 <html>
 <head>
     <title>Testing page</title>
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/stylee.css">
 </head>
 <body>
 <a href="index.jsp">Home</a><br>

@@ -14,7 +14,7 @@
 </head>
 <a href="../../index.jsp">Home</a>
 <body>
-    <%@include file="../navbar.jsp"%>
+    <%@include file="../../css/navbar.jsp"%>
     <div class="container">
         <div class="row">
             <div class="col-md-3 offset-md-4">
