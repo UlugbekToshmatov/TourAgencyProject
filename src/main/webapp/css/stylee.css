@@ -1,0 +1,32 @@
+.bg-custom {
+    background-color: #303f9f;
+}
+
+.navbar .nav-item:hover .nav-link {
+    color: #303f9f;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.form-inline{
+    margin-right: 3px;
+}
+
+.images{
+    display: inline-block;
+    border: 1px solid hsl(0, 0%, 60%);
+    margin: 5px;
+}
+
+.background-img {
+    height: auto;
+    width: auto;
+    background-image: url("../images/background_image.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.page-title {
+    font-family: Fasthand;
+    display: inline;
+}
